@@ -1,5 +1,6 @@
 #!bin/bash
 
-echo "This is just an echo statement"
+echo "this is just an echo statement"
+echo "This is the second statement"
 
 ls /bin
